@@ -1,0 +1,26 @@
+{
+  "name": "@harijoe/handly",
+  "version": "0.0.3",
+  "description": "A wrapper for serverless handlers to prevent silly mistakes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harijoe/handly.git"
+  },
+  "keywords": [
+    "serverless",
+    "middy"
+  ],
+  "author": "Julien Vallini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harijoe/handly/issues"
+  },
+  "homepage": "https://github.com/harijoe/handly#readme",
+  "dependencies": {
+    "middy": "^0.19.2"
+  }
+}
