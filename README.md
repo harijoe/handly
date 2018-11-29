@@ -52,3 +52,6 @@ Not official middy middleware. It automatically calls JSON.stringify on every re
 
 ## Author
 Hello, I am [Julien vallini](https://twitter.com/julienvallini), an indie-maker. Follow me on twitter if you like my work.
+
+## License
+Handly is [MIT licensed](https://opensource.org/licenses/MIT).
